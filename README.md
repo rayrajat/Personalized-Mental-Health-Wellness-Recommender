@@ -137,7 +137,7 @@ https://github.com/user-attachments/assets/69df0d2d-9d58-4c71-b58b-f706f7698166
 ├── src/                    # reusable modules (optional)
 │   ├── data.py
 │   └── utils.py
-├── screenshots/            # demo images
+├── image.png            # demo images
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
