@@ -104,7 +104,7 @@ Hybrid recommendation engine
 
 
 ## Demo
-<video controls src="project_demo.mp4" title="Title"></video>
+
 
 
 ## Technologies & Tools
