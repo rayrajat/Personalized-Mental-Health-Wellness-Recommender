@@ -105,6 +105,9 @@ Hybrid recommendation engine
 
 ## Demo
 
+https://github.com/user-attachments/assets/69df0d2d-9d58-4c71-b58b-f706f7698166
+
+
 
 
 ## Technologies & Tools
